@@ -1,6 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 
-## 👋 &nbsp;Hey there! I'm Bagus
+## 👋 &nbsp;Hey there! I'm Wahyu Bagus
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,8 +9,8 @@
 🌱 &nbsp;I'm on track for learning more about Web Developer, Mobile Developer, and Game Developer.\
 ✍️ &nbsp;In my free time, I like to learn a new programming language.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at muharafiar91@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at wahyubagus1910@gmail.com! I'll try to respond as soon as I can.\
+<!-- 📄 &nbsp; Please have a look at my [Portfolio](https://rafi-portfolio.vercel.app/) for more details about me. I'm open to feedback and suggestions! -->
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -48,8 +48,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://rafi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-4e45d6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-rafi-ardiansyah/"><img src="https://img.shields.io/badge/-Muhammad%20Rafi%20Ardiansyah-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:muharafiar91@gmail.com"><img src="https://img.shields.io/badge/-muharafiar91@gmail.com-BB001B?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.youtube.com/@chainz9492"><img src="https://img.shields.io/badge/-Chainz94-FF0000?style=flat&logo=Youtube&logoColor=white%22"/></a>
-</p>
+<!-- <a href="https://rafi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-My%20Portfolio-4e45d6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/wahyu-bagus-5b7004223/"><img src="https://media.licdn.com/dms/image/C4D03AQFRo8s2Lhpdag/profile-displayphoto-shrink_800_800/0/1634013908005?e=1681344000&v=beta&t=Txfy28sDwDEYpsutQOnYmKUHWGPKiUbqXk6rabaZVTw"/></a>
